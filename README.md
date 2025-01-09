@@ -132,4 +132,13 @@ pip install numpy pygame
 2. Add multiplayer support over a network.
 3. Optimize graphics for mobile platforms.
 
+---
+
+## Contact
+If you have any questions or need further assistance, please feel free to contact:
+
+- **Name**: Sarowar Alam
+- **Email**: sarowaralam40@gmail.com
+- **GitHub**: [https://github.com/SarowarAlam](https://github.com/SarowarAlam)
+
 
